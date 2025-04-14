@@ -1,7 +1,7 @@
 ### Hi! I'm Jara 👩
 
 
-- 🧬 I’m currently working with Bioinformatic and Microbioma
+
 - 🌱 I’m a Data Science Student at the UNIVESP 
 
 ##
