@@ -1,9 +1,6 @@
 ### Hi! I'm Jara 👩
 
 
-
-- 🌱 I’m a Data Science Student at the UNIVESP 
-
 ##
 
 <div style="display: inline_block"><br>
