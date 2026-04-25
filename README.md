@@ -7,20 +7,7 @@
 👩‍💻​ My work integrates Bioinformatics and Biostatistics to investigate biological systems in health and nutrition.
 ##
 
-<div>
-
-<div style="display: flex; align-items: center; gap: 10px;">
-  <p style="margin: 0;">I'm working with:</p>
-
-<img alt="Rstudio" height="30" width="40"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rstudio/rstudio-plain.svg">
-
-<img alt="Python" height="30" width="40"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-
 </div>
-
-
   
   <p>I'm working with...</p>
 
