@@ -1,18 +1,20 @@
 ### Hi! I'm Jara 👩
 
+‍💻👩‍🎓​​ I am a Ph.D. in Food and Nutrition from São Paulo State University (UNESP – Araraquara) and M.Sc. in Food Science and Technology from the Federal University of Rio Grande do Sul (UFRGS), with a degree in Food Technology and training in Information Technology focused on data analysis.
 
+👩‍🔬 Currently, I am a Junior Postdoctoral Researcher at the Federal University of ABC, developing research entitled “Assessment of kidney–vascular crosstalk: quantification of shear stress in distant vascular beds after acute kidney injury.”
+
+👩‍💻​ My work integrates Bioinformatics and Biostatistics to investigate biological systems in health and nutrition.
 ##
 
 <div style="display: inline_block"><br>
 I'm working with...
 
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rstudio/rstudio-plain.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rstudio/rstudio-plain.svg"> <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 
 <div style="display: inline_block"><br>
 Also, I'm know ....
-  <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">  
-  <img align="center"  height="40" width="50" src="https://www.knime.com/images/knime-logo.svg">
+  <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">   <img align="center"  height="40" width="50" src="https://www.knime.com/images/knime-logo.svg">
 </div>
 
 ##
