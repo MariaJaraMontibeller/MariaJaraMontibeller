@@ -5,30 +5,20 @@
 👩‍🔬 Currently, I am a Junior Postdoctoral Researcher at the Federal University of ABC, developing research entitled “Assessment of kidney–vascular crosstalk: quantification of shear stress in distant vascular beds after acute kidney injury.”
 
 👩‍💻​ My work integrates Bioinformatics and Biostatistics to investigate biological systems in health and nutrition.
-##
 
-</div>
-  
-  <p>I'm working with...</p>
-
-  <img style="display:inline-block;" alt="Rstudio" height="30" width="40"
+<p>I'm working with:
+  <img alt="Rstudio" height="40"
        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rstudio/rstudio-plain.svg">
-       
-  <img style="display:inline-block;" alt="Python" height="30" width="40"
+  <img alt="Python" height="40"
        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-</div>
 
-<br>
-
-<div>
-  <p>Also, I know...</p>
-
-  <img height="30" width="40"
+  
+<p>
+  Also, I know...
+  <img height="30" height="20"
        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-       
-  <img height="40" width="50"
+  <img height="40" height="20"
        src="https://www.knime.com/images/knime-logo.svg">
-</div>
 
 <br>
 
