@@ -10,10 +10,10 @@
 <div>
   <p>I'm working with...</p>
 
-  <img alt="Rstudio" height="30" width="40"
+  <img style="display:inline-block;" alt="Rstudio" height="30" width="40"
        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rstudio/rstudio-plain.svg">
        
-  <img alt="Python" height="30" width="40"
+  <img style="display:inline-block;" alt="Python" height="30" width="40"
        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
 
