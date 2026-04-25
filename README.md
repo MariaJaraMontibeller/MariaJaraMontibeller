@@ -1,4 +1,4 @@
-### Hi! I'm Jara 👩
+### Hi! I'm Jara! 
 
 👩‍🎓​​ I am a Ph.D. in Food and Nutrition from São Paulo State University (UNESP – Araraquara) and M.Sc. in Food Science and Technology from the Federal University of Rio Grande do Sul (UFRGS), with a degree in Food Technology and training in Information Technology focused on data analysis.
 
@@ -8,6 +8,20 @@
 ##
 
 <div>
+
+<div style="display: flex; align-items: center; gap: 10px;">
+  <p style="margin: 0;">I'm working with:</p>
+
+<img alt="Rstudio" height="30" width="40"
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rstudio/rstudio-plain.svg">
+
+<img alt="Python" height="30" width="40"
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+
+</div>
+
+
+  
   <p>I'm working with...</p>
 
   <img style="display:inline-block;" alt="Rstudio" height="30" width="40"
