@@ -7,23 +7,36 @@
 👩‍💻​ My work integrates Bioinformatics and Biostatistics to investigate biological systems in health and nutrition.
 ##
 
-<div><br>
-I'm working with...
+<div>
+  <p>I'm working with...</p>
 
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rstudio/rstudio-plain.svg"> 
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-
-<div><br>
-
-  
-Also, I'm know ....
-  <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">   <img align="center"  height="40" width="50" src="https://www.knime.com/images/knime-logo.svg">
+  <img alt="Rstudio" height="30" width="40"
+       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rstudio/rstudio-plain.svg">
+       
+  <img alt="Python" height="30" width="40"
+       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
 
-##
+<br>
 
-<div> 
- 	 <a href="https://www.researchgate.net/profile/Maria-Montibeller" target="_blank"><img src="https://img.shields.io/badge/Research_Gate-00CCBB.svg?&style=for-the-badge&logo=ResearchGate&logoColor=white" target="_blank"></a>
-  <a href="https://br.linkedin.com/in/mariajaramontibeller" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
+<div>
+  <p>Also, I know...</p>
+
+  <img height="30" width="40"
+       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+       
+  <img height="40" width="50"
+       src="https://www.knime.com/images/knime-logo.svg">
+</div>
+
+<br>
+
+<div>
+  <a href="https://www.researchgate.net/profile/Maria-Montibeller" target="_blank">
+    <img src="https://img.shields.io/badge/Research_Gate-00CCBB.svg?&style=for-the-badge&logo=ResearchGate&logoColor=white">
+  </a>
+
+  <a href="https://br.linkedin.com/in/mariajaramontibeller" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
 </div>
